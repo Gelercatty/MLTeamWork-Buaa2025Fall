@@ -7,6 +7,10 @@ buaa 2025 团队作业
 ```bash
 bash scripts/prepare_data.sh
 ```
+数据会自动下载解压到`.data/`目录
+
+# run
+详细查看`biyes_classifier.ipynb`
 
 
 # 提交结果
